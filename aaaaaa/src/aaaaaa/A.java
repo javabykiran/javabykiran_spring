@@ -5,5 +5,6 @@ int a=90;
 void m1(){
 	System.out.println(345);
 	System.out.println(345);
+	System.out.println(345);
 }
 }
